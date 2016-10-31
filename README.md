@@ -1,2 +1,1 @@
-# hoc-git
-Learning basic about GIT
+"# Huong dan Git co ban" 
